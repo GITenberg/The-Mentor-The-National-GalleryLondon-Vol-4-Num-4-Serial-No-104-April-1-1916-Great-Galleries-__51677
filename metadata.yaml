@@ -1,5 +1,8 @@
 _repo: The-Mentor-The-National-GalleryLondon-Vol-4-Num-4-Serial-No-104-April-1-1916-Great-Galleries-__51677
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51677-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Dyke, John Charles
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7733
     wikipedia: http://en.wikipedia.org/wiki/John_Charles_Van_Dyke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51677#The-Mentor-The-National-GalleryLondon-Vol-4-Num-4-Serial-No-104-April-1-1916-Great-Galleries-_
 gutenberg_issued: '2016-04-06'
 gutenberg_type: Text
 identifiers:
